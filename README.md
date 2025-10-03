@@ -35,8 +35,8 @@ world_layoffs_project/
 │   └── layoffs.csv               # Raw dataset
 │
 ├── sql/
-│   ├── cleaned_layoffs.sql       # SQL script for data cleaning and preprocessing
-│   └── eda_queries.sql           # SQL script containing all exploratory analysis queries
+│   ├── cleanedlayoffs.sql       # SQL script for data cleaning and preprocessing
+│   └── edalayoffs.sql           # SQL script containing all exploratory analysis queries
 │
 ├── README.md                     # Project documentation
 ```
