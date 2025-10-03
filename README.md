@@ -1,4 +1,4 @@
-Absolutely! Here’s the **full professional README** in a single copy-paste-ready format:
+
 
 ---
 
@@ -130,7 +130,7 @@ The EDA addresses key business questions to understand layoffs trends:
 **Akashreddy Biyyam**
 
 * SQL & Data Analysis enthusiast
-* GitHub: [Your GitHub URL]
+* GitHub: [https://github.com/akashreddy1234/World-Layoffs-Analysis-eda-]
 * mail:[akashreddybiyyam@gmail.com]
 
 ---
